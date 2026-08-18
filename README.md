@@ -8,4 +8,4 @@ Le site est prêt à être déployé sur Vercel : il aura alors une vraie adress
 
 Pendant les essais locaux, une réponse est conservée dans le navigateur si l’endpoint n’est pas disponible. Aucune réponse ne sera réellement envoyée par e-mail avant le déploiement et la configuration de Resend. C’est pourquoi l’essai effectué depuis le fichier `index.html` n’a pas envoyé de message.
 
-Avant publication, ajoutez le fichier logo SYKSS dans ce dossier puis remplacez le logo typographique présent dans l’en-tête.
+Le dépôt est relié à Vercel : chaque nouvelle modification est automatiquement déployée.
